@@ -1,6 +1,6 @@
 name: bus_stop
-description: A simple Flutter widget that listens to Event Buses.
-version: 0.0.1
+description: A simple Flutter widget that listens to Event Buses. Either shows SnackBars or modifies child widgets on events.
+version: 0.0.2
 author: Milton Li <milton.arai.li@gmail.com>
 homepage: https://github.com/milton-li/flutter_bus_stop
 

@@ -12,7 +12,7 @@ Learn more about [event buses](https://github.com/marcojakob/dart-event-bus).
 
 ```yaml
 dependencies:
-  bus_stop: "^0.0.1"
+  bus_stop: "^0.0.2"
 ```
 
 ### Import
