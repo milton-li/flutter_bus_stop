@@ -25,7 +25,7 @@ import 'package:bus_stop/bus_stop.dart';
 
 ## Usage 🕹
 
-	Bus Stop can show a SnackBar and/or change the child Widget based whether the event fires. If `doShowSnackBar` is set to true, `snackBarContext` and `snackBar` must not be null where `snackBarContext` is a BuildContext that contains a Scaffold. 
+Bus Stop can show a SnackBar and/or change the child Widget based whether the event fires. If `doShowSnackBar` is set to true, `snackBarContext` and `snackBar` must not be null where `snackBarContext` is a BuildContext that contains a Scaffold. 
 
 ```dart
 import 'package:flutter/material.dart';
