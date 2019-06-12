@@ -7,7 +7,7 @@ void main() => runApp(MyApp());
 EventBus bus = EventBus();
 
 /// Event type.
-class Event {}
+class Event extends BusEvent {}
 
 class MyApp extends StatelessWidget {
   @override
